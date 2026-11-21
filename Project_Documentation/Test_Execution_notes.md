@@ -2,17 +2,23 @@
 
 
 
-Project: E-Commerce Website Manual Testing
-
-Application: SauceDemo
-
-Activity: Initial Application Exploration
-
-Date: 18 October 2026
-
-Status: Completed
+\*\*Project:\*\* E-Commerce Website Manual Testing
 
 
+
+\*\*Application:\*\* SauceDemo
+
+
+
+\*\*Activity:\*\* Initial Application Exploration
+
+
+
+\*\*Date:\*\* 18 October 2026
+
+
+
+\*\*Status:\*\* Completed
 
 
 
@@ -28,33 +34,33 @@ To explore the application and perform initial checks on login, product visibili
 
 
 
-| Test ID | Test Activity          | Expected Result                               | Observed Result            | Status |
+| Test ID | Test Activity | Expected Result | Observed Result | Status |
 
 |---------|------------------------|-----------------------------------------------|----------------------------|--------|
 
-|  EXP-01 | Login                  | User reaches the Products page                | Login successful           |  Pass  |
+| EXP-01 | Login | User reaches the Products page | Login successful | Pass |
 
-|  EXP-02 | Product visibility     | Products are displayed                        | Products visible           |  Pass  |
+| EXP-02 | Product visibility | Products are displayed | Products visible | Pass |
 
-|  EXP-03 | Add to cart            | Selected product is added                     | Product added successfully |  Pass  |
+| EXP-03 | Add to cart | Selected product is added | Product added successfully | Pass |
 
-|  EXP-04 | Cart item verification | Correct product appears in the cart           | Correct product displayed  |  Pass  |
+| EXP-04 | Cart item verification | Correct product appears in the cart | Correct product displayed | Pass |
 
-|  EXP-05 | Price verification     | Cart price matches the product price          | Price matched              |  Pass  |
+| EXP-05 | Price verification | Cart price matches the product price | Price matched | Pass |
 
-|  EXP-06 | Remove product         | Product is removed from the cart              | Removal worked             |  Pass  |
+| EXP-06 | Remove product | Product is removed from the cart | Removal worked | Pass |
 
-|  EXP-07 | Sort by name A–Z       | Products appear alphabetically                | Reported correct           |  Pass  |
+| EXP-07 | Sort by name A–Z | Products appear alphabetically | Reported correct | Pass |
 
-|  EXP-08 | Sort by name Z–A       | Products appear in reverse alphabetical order | Reported correct           |  Pass  |
+| EXP-08 | Sort by name Z–A | Products appear in reverse alphabetical order | Reported correct | Pass |
 
-|  EXP-09 | Sort by price low–high | Prices appear in ascending order              | Reported correct           |  Pass  |
+| EXP-09 | Sort by price low–high | Prices appear in ascending order | Reported correct | Pass |
 
-|  EXP-10 | Sort by price high–low | Prices appear in descending order             | Reported correct           |  Pass  |
+| EXP-10 | Sort by price high–low | Prices appear in descending order | Reported correct | Pass |
 
 
 
-Note: Results reflect the initial checks reported during Day 1. Detailed test cases, evidence, and repeatable execution records were prepared in subsequent project activities.
+\*\*Note:\*\* Results reflect the initial checks reported during Day 1. Detailed test cases, evidence, and repeatable execution records were prepared in subsequent project activities.
 
 
 
